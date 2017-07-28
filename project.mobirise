@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": ".branched.co",
+    "currentPage": "index.html",
     "name": "Branched",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    ".branched.co": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
