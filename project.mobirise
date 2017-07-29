@@ -33,8 +33,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Sign Up for Branched",
+        "meta_descr": "<meta property=\"og:title\" content=\"Example Page\">\n<meta property=\"og:image\" content=\"https://pbs.twimg.com/profile_images/862628392197177344/w2jbod-7_400x400.jpg\">\n<meta property=\"og:description\" content=\"Branched Sign Up Page.\">\n<meta property=\"og:url\" content=\"http://branched.co\">",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
